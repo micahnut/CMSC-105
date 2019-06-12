@@ -1,2 +1,3 @@
 # CMSC-105
-Statistical Package. CMSC 105 Laboratory 4 collaboration with Ena Bojos
+Statistical Package. <br/>
+CMSC 105 Laboratory 4 collaboration with Ena Bojos <br/>
